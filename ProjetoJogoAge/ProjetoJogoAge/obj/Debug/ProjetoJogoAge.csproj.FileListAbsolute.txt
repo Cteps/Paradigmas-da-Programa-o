@@ -1,0 +1,106 @@
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\source\repos\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\A tua prima\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\A tua prima\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\A tua prima\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\A tua prima\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Desktop\PP projeto final\PP projeto final\PP projeto final\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ProjetoJogoAge\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\ERROR - CAN'T RR - Final version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Eu\Desktop\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe.config
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\bin\Debug\ProjetoJogoAge.pdb
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csprojAssemblyReference.cache
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.exe
+C:\Users\Carlos Passos\Downloads\Pp Final Version\ProjetoJogoAge\ProjetoJogoAge\obj\Debug\ProjetoJogoAge.pdb
